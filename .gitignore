@@ -1,0 +1,11 @@
+# 可重新生成的大产物（用 scripts/03_visualize_demo.py 重生成）
+outputs/videos/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 系统/编辑器
+.DS_Store
+.ipynb_checkpoints/
